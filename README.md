@@ -19,3 +19,8 @@ Projects
   Sleep Analyser using PIR senor and clustering
   <br/>
   https://github.com/sakthiram17/SleepAnalyzer
+  <br/>
+  Waste Segregator using Ardunio and Esp
+  <br/>
+    https://github.com/sakthiram17/WasteSegreator
+  <br/>

@@ -1,5 +1,5 @@
  Hi, I’m Sakthi Ram currently in my second of Electrical Engineering at VIT chennai.
- I am interest in web development and embedded systems.
+ I am in interested in web development and electronics
  
  <br/>
 Projects
@@ -18,9 +18,13 @@ Projects
   <br/>
   Sleep Analyser using PIR senor and clustering
   <br/>
-  https://github.com/sakthiram17/SleepAnalyzer
+  https://github.com/sakthiram17/SleepAnalyser
   <br/>
   Waste Segregator using Ardunio and Esp
   <br/>
     https://github.com/sakthiram17/WasteSegreator
+  <br/>
+  Goals Tracker App using React Native
+ <br/>
+    https://github.com/sakthiram17/goals-tracker
   <br/>

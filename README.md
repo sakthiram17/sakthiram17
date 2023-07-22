@@ -1,6 +1,6 @@
 Welcome to my Github profile! I am a dedicated electrical engineer with expertise in power converter design and extensive experience in Verilog development.
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
 
 
 With a focus on power converter design, I have successfully developed and tested high-gain DC-DC converters, optimizing power transfer and achieving impressive voltage gains. My proficiency in Verilog enables me to tackle complex digital design challenges with confidence, ensuring efficient and reliable performance.

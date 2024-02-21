@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ## About Me
-I am a passionate electrical engineering student currently in my final year, specializing in power converter design and Verilog development. My journey has involved successful development and testing of high-gain DC-DC converters, optimizing power transfer, and achieving impressive voltage gains.
+I am a passionate electrical engineering student currently in my final year, specializing in power converter design and Verilog development. My journey has involved successful development and testing of high-gain DC-DC converters, optimizing power transfer, and achieving impressive voltage gains. <br></br>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ## Technical Skills
 - **Languages:** C++, C, Python,java,javascript

@@ -8,7 +8,7 @@ I previously worked as an **Advanced Application Engineer at Accenture India (20
 ---
 
 ## 🔗 Quick Links  
-### **🌐 Primary GitHub:**  
+### **🌐 Work GitHub:**  
 https://github.com/sakthiram-t  
 
 ### **📁 Project GitHub (Public Projects):**  
